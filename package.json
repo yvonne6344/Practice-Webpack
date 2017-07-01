@@ -1,0 +1,22 @@
+{
+  "name": "webpack-demos",
+  "version": "1.0.0",
+  "description": "simple demos of Webpack",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvonne6344/Practice-Webpack.git"
+  },
+  "keywords": [
+    "build",
+    "demo",
+    "webpack"
+  ],
+  "author": "Yvonne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yvonne6344/Practice-Webpack/issues"
+  },
+  "homepage": "https://github.com/yvonne6344/Practice-Webpack#readme"
+}
