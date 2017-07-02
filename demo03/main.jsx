@@ -1,7 +1,7 @@
 const React = require('react');
-const ReactDom = require('react-dom');
+const ReactDOM = require('react-dom');
 
 ReactDOM.render(
-    <h1>Hello World!</h1>,
-    document.querySelector('#wrapper')
+  <h1>Hello, Demo03!</h1>,
+  document.querySelector('#wrapper')
 );
